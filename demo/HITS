@@ -1,0 +1,6 @@
+ paper-audio-player.orange {
+        --paper-audio-player-color: #F05C38;
+      }
+
+      paper-audio-player.blue  {
+        --paper-audio-player-color: #90D9D6;
